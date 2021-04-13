@@ -1,9 +1,12 @@
 [package]
 name = "imagedraw"
-description = "image drawing for the image crate(dev)"
 version = "0.0.0"
+description = "image drawing for the image crate(dev)"
 authors = ["Andelf <andelf@gmail.com>"]
 edition = "2018"
 license = "Apache-2.0"
+homepage = "https://github.com/andelf/imagedraw-rs"
+repository = "https://github.com/andelf/imagedraw-rs"
+documentation = "https://docs.rs/imagedraw"
 
 [dependencies]
